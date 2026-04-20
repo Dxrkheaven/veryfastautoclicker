@@ -1,13 +1,11 @@
-# autoclicker.py
-
 import pyautogui as click
 import keyboard
 import time
 
-click.PAUSE = 0  # more stable than 0
+click.PAUSE = 0
 
 clicking = False
-delay = 0.001       # safer than 0.001
+delay = 0.001
 click_type = "left"  # left or right
 
 
