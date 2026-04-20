@@ -1,2 +1,3 @@
 # veryfastautoclicker
 really fucking fast auto clicker 1k+ CPS
+PLEASE DOWNLOAD ALL THE FILES IN THE FOLDER THEY WILL BE NEEDED IN ORDER FOR THE AUTOCLICKER TO WORK.
