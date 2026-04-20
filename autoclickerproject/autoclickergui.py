@@ -1,5 +1,3 @@
-# autoclickergui.py
-
 from tkinter import *
 import autoclicker as ac
 import threading
